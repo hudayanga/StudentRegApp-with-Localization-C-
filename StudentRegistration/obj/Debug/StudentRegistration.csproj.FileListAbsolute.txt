@@ -1,0 +1,13 @@
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form2.resources
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.si-LK.resources
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\bin\Debug\si-LK\StudentRegistration.resources.dll
+D:\3rd year\2nd semester\DCBSD\ex\StudentRegistration\StudentRegistration\obj\Debug\si-LK\StudentRegistration.resources.dll
